@@ -7,14 +7,18 @@
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
-
 <div align="left">
   <h3>About Me</h3>
   <ul>
-    <li>🎓 I am a Cyber Security student and working as a Software Engineer.</li>
-    <li>🌱 I am currently learning C# and also interested in Web & App Development.</li>
+    <li>🚀 I have been working as a Web Developer and Cyber Security Analyst.</li>
+    <li>🎓 Currently pursuing an Advanced Diploma in IT (Telecommunications & Networking).</li>
+    <li>🌱 Passionate about Full-Stack Development, Cyber Security, and AI.</li>
+    <li>🏆 Winner of multiple local and international IT competitions.</li>
+    <li>🔍 Experienced in Web & App Development, Cyber Security, and AI-driven projects.</li>
+    <li>💡 Strong problem-solving skills, teamwork, and leadership experience.</li>
   </ul>
 </div>
+
 
 <div align="center"> 
   <h3>Connect with me:</h3>
