@@ -11,7 +11,7 @@
   <h3>About Me</h3>
   <ul>
     <li>🚀 I have been working as a Web Developer and Cyber Security Analyst.</li>
-    <li>🎓 Currently pursuing an Advanced Diploma in IT (Telecommunications & Networking).</li>
+    <li>🎓 Cybersecurity graduate at the age of 20 and currently pursuing an Advanced Diploma in IT (Telecommunications & Networking).</li>
     <li>🌱 Passionate about Full-Stack Development, Cyber Security, and AI.</li>
     <li>🏆 Winner of multiple local and international IT competitions.</li>
     <li>🔍 Experienced in Web & App Development, Cyber Security, and AI-driven projects.</li>
